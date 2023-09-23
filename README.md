@@ -14,4 +14,7 @@ Explore the project to gain a deeper understanding of your WhatsApp group or ind
 Model credits: prasant268
 
 ## ScreenShots:
-![Screenshot 1](https://github.com/Kathankathrotiya/Text-to-Speech-Convertor-WebApp/blob/main/Screenshot%202023-09-23%20204555.png)
+![Screenshot 1](https://github.com/Kathankathrotiya/WhatsApp-Chat-Analyzer/blob/main/Screenshot%202023-09-23%20184132.png)
+![Screenshot 2](https://github.com/Kathankathrotiya/WhatsApp-Chat-Analyzer/blob/main/Screenshot%202023-09-23%20184141.png)
+![Screenshot 3](https://github.com/Kathankathrotiya/WhatsApp-Chat-Analyzer/blob/main/Screenshot%202023-09-23%20184153.png)
+![Screenshot 4](https://github.com/Kathankathrotiya/WhatsApp-Chat-Analyzer/blob/main/Screenshot%202023-09-23%20184218.png)
