@@ -12,3 +12,6 @@ Welcome to the WhatsApp Chat Analyzer project! This web application is designed 
 Explore the project to gain a deeper understanding of your WhatsApp group or individual chat conversations. Extract meaningful information and uncover hidden trends in your chat history effortlessly.
 
 Model credits: prasant268
+
+## ScreenShots:
+![Screenshot 1](https://github.com/Kathankathrotiya/Text-to-Speech-Convertor-WebApp/blob/main/Screenshot%202023-09-23%20204555.png)
